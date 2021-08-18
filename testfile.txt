@@ -1,1 +1,3 @@
 This is an example of test file
+
+And this is another commit from local machine
