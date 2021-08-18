@@ -1,3 +1,6 @@
+Hello, this is a SSH Base Connection
+
 This is an example of test file
 
 And this is another commit from local machine
+
