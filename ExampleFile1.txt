@@ -8,3 +8,4 @@ de ejemplo en español
 Git Revert Commit 1
 This is comparison lecture
 
+This is Stash lecture, change in file 1
